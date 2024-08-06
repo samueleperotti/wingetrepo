@@ -10,14 +10,14 @@
                     "versions": [
                         {
                             "version": "6.1.6",
-                            "url": "https://172.19.2.33/packages/ZoomInstallerFull.msi",
+                            "url": "http://172.19.2.33/packages/ZoomInstallerFull.msi",
                             "sha256": "2F8603CF8125E19904498CB945CD54B97205B74411CFAFF62EFDCEAA8A8898C3",
                             "releaseNotes": "Bug fixes and performance improvements.",
                             "installers": [
                                 {
                                     "installerType": "msi",
                                     "architecture": "x64",
-                                    "url": "https://172.19.2.33/packages/ZoomInstallerFull.msi",
+                                    "url": "http://172.19.2.33/packages/ZoomInstallerFull.msi",
                                     "sha256": "2F8603CF8125E19904498CB945CD54B97205B74411CFAFF62EFDCEAA8A8898C3",
                                     "scope": "machine"
                                 }
@@ -40,14 +40,14 @@
                     "versions": [
                         {
                             "version": "2.57.0",
-                            "url": "https://172.19.2.33/packages/KeePass2.exe",
+                            "url": "http://172.19.2.33/packages/KeePass2.exe",
                             "sha256": "EA53F7F944FADA950CD7BB154DEB078123A357B7BC5E2484851762B3552EB48B",
                             "releaseNotes": "New features and minor bug fixes.",
                             "installers": [
                                 {
                                     "installerType": "exe",
                                     "architecture": "x64",
-                                    "url": "https://172.19.2.33/packages/KeePass2.exe",
+                                    "url": "http://172.19.2.33/packages/KeePass2.exe",
                                     "sha256": "EA53F7F944FADA950CD7BB154DEB078123A357B7BC5E2484851762B3552EB48B",
                                     "scope": "user"
                                 }
